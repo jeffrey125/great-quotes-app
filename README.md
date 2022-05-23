@@ -1,13 +1,19 @@
-# About This Repository
+# GREAT-QUOTES-APP
 
-This repository belongs to my "React Router v6 Upgrade Guide" YouTube [video](...).
+Link:
 
-You can also learn all about React (incl. React Router) in my ["React - The Complete Guide" course](https://acad.link/reactjs).
+A simple SPA-MULTI-PAGE React app that showcases my skill on using React Router and other React Ecosystem.
 
-The code in this repository is organized into different branches that represent different demo apps and code snapshots (used in the video linked above). You find `-v5` and `-v6` branches which represent the code for these two different versions of React Router.
+## Techs Used
 
-Also check out the official [docs](https://reactrouter.com/) and the official [v5 => v6 upgrade guide](https://reactrouter.com/docs/en/v6/upgrading/v5).
+- Create-React-App
+- React Router
+- Firebase
 
-# How To Use
+### Copyright ©
 
-The code is primarily meant to be used for comparison (i.e. you compare your code with mine). You can of course also download or clone the repository though. If you do that, you can `npm install` all dependencies and start the development server via `npm start`.
+- Some CSS style are from Maximilian Schwarzmüller from his React course (https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25600058#overview).
+
+- All credits to him for teaching me to use React and React Router.
+
+- For React Skill Showcase Portfolio only.
