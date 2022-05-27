@@ -17,3 +17,9 @@ A simple SPA-MULTI-PAGE React app that showcases my skill on using React Router 
 - All credits to him for teaching me to use React and React Router.
 
 - For React Skill Showcase Portfolio only.
+
+#### Features to be added in the future
+
+- Authentication
+
+- Form Validation
