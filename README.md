@@ -1,6 +1,6 @@
 # GREAT-QUOTES-APP
 
-Link:
+Link: https://great-quotes-app-phi.vercel.app/quotes
 
 A simple SPA-MULTI-PAGE React app that showcases my skill on using React Router and other React Ecosystem.
 
